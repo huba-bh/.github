@@ -126,8 +126,8 @@
 
 Stack Exchange 已经成长到[超过一百个网站](https://stackexchange.com/sites)，以下是最常用的几个站：
 
-* Stack Overflow 是问写程序有关的问题。
-* Server Fault 是问服务器和网管相关的问题。
+* Stack Overflow(https://stackoverflow.com/) 是问写程序有关的问题。
+* Server Fault(https://serverfault.com/) 是问服务器和网管相关的问题。
 
 
 ### 第二步，使用项目邮件列表
